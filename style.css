@@ -18,6 +18,15 @@ h2 {
     
     
 }
+h4{
+    font-stretch: semi-condensed;
+    font-style: italic;
+    color: rgb(253, 12, 52);
+}
+h3{
+font-style: italic;
+color: rgb(241, 11, 50);
+}
 
 .cal {
     background-color: #fff;
